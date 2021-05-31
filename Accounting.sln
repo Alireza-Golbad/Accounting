@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounting.Bussiness", "Acc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounting.Utility", "Accounting.Utility\Accounting.Utility.csproj", "{C6D922A4-4828-440A-AD64-3DBCAFF3AF49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{3364F75E-9941-4AE3-90CD-978ED1D9CC31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C6D922A4-4828-440A-AD64-3DBCAFF3AF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6D922A4-4828-440A-AD64-3DBCAFF3AF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6D922A4-4828-440A-AD64-3DBCAFF3AF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3364F75E-9941-4AE3-90CD-978ED1D9CC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3364F75E-9941-4AE3-90CD-978ED1D9CC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3364F75E-9941-4AE3-90CD-978ED1D9CC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3364F75E-9941-4AE3-90CD-978ED1D9CC31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
